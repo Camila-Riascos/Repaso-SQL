@@ -1,9 +1,9 @@
 \c new_school
 DELETE FROM teachers_subjects;
 INSERT INTO teachers_subjects (subject_id, teacher_id)
-VALUES (1,1),
-        (2,2),
-        (3,1),
-        (4,2),
-        (5,4),
-        (6,5);
+VALUES (1,11),
+        (2,12),
+        (3,11),
+        (4,12),
+        (5,14),
+        (6,15);
